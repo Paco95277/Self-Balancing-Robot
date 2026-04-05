@@ -1,2 +1,4 @@
 # Self-Balancing-Robot
-This is a microcontroller project about a self-balancing-robot. 
+Dies ist ein Mikrocontroller-Projekt für einen selbstbalancierenden Roboter. Es verwendet einen STM32RCT6 als Hauptcontroller, einen TB6612 als Motortreiber, zwei 12-V-Gleichstrommotoren mit Encoder als Aktuatoren, einen MPU6050 als Bewegungssensor und ein Bluetooth-Modul HC05 als Kommunikator.
+
+# jij
