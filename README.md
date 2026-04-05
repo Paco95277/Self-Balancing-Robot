@@ -8,5 +8,6 @@ Dies ist ein Mikrocontroller-Projekt für einen selbstbalancierenden Roboter. Es
 ## Algorithmus
 ### PD-Regler
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/5a40bd76-280e-48e7-a33c-9a5d0bacf7df" />
+
 ### PI-Regler
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/2f92aaaa-2917-4ca1-a5f8-8c44192ac0f6" />
